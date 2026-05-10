@@ -2,7 +2,7 @@
 
 ## Requisiti
 
-- Python 3.10 o 3.11
+- Python 3.11
 
 ---
 
